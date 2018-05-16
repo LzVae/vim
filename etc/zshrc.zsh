@@ -80,8 +80,8 @@ antigen bundle willghatch/zsh-cdr
 
 # check login shell
 if [[ -o login ]]; then
-	[ -f "$HOME/.local/etc/login.sh" ] && source "$HOME/.local/etc/login.sh"
-	[ -f "$HOME/.local/etc/login.zsh" ] && source "$HOME/.local/etc/login.zsh"
+#	[ -f "$HOME/.local/etc/login.sh" ] && source "$HOME/.local/etc/login.sh"
+#	[ -f "$HOME/.local/etc/login.zsh" ] && source "$HOME/.local/etc/login.zsh"
 fi
 
 # syntax color definition
