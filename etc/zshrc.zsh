@@ -28,7 +28,7 @@ fi
 
 
 # Initialize command prompt
-export PS1="%n@%m:%~%# "
+#export PS1="%n@%m:%~%# "
 
 # Enable 256 color to make auto-suggestions look nice
 export TERM="xterm-256color"
